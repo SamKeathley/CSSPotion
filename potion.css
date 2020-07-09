@@ -1,0 +1,75 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.potion{
+    height: 1000px;
+    width: 850px;
+    background-color: #a1a1a1;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.neck{
+    background-color: #eae8eb;
+    height: 160px;
+    width: 150px;
+    position: relative;
+    top: 385px;
+    left: 340px;
+    border-radius: 15%;
+}
+
+.lip{
+    background-color: #eae8eb;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    border-radius: 15%;
+    left: -25px;
+}
+
+.curve{
+    background-color: #dedede;
+    height: 5px;
+    width: 196px;
+    position: relative;
+    border-radius: 20% 20% 30% 30%;
+    top: -140px;
+    left: -23px;
+}
+
+.cork{
+    background-image: linear-gradient(to bottom, #b39064, #a6712d);
+    height: 100px;
+    width: 150px;
+    position: relative;
+    border-radius: 20%;
+    top: -110px;
+}
+
+.base{
+    background-color: #eae8eb;
+    height: 500px;
+    width: 550px;
+    border-radius: 50%;
+    position: relative;
+    top: 325px;
+    left: 150px;
+}
+
+.liquid {
+    background-image: linear-gradient(to bottom, #e80505, #a80505);
+    height: 450px;
+    width: 500px;
+    border-radius: 50%;
+    position: relative;
+    top: 30px;
+    left: 25px;
+}
+
